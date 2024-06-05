@@ -1,0 +1,32 @@
+#mainFav {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 10%;
+
+    width: 44%;
+    margin-left: 50%;
+    margin-right: 50%;
+    transform: translate(-50%);
+}
+#lab1 {
+    margin-bottom: 10px;
+}
+
+#favList {
+    width: 52%;
+    text-align: left;
+    margin-left: 50%;
+    margin-right: 50%;
+    transform: translate(-50%);
+}
+#favItem {
+    border: 1px solid black;
+    margin-bottom: 5px;
+    padding-left: 25px;
+}
+#arrow {
+    margin-left: 10px;
+}
+#foodItem {
+    padding-left: 25px;
+}
